@@ -20,7 +20,7 @@
     "@angular/animations": "^6.0.0-rc.1",
     "@angular/cdk": "~7.3.3",
     "@angular/common": "^6.0.0-rc.1",
-    "@angular/core": "^6.0.0-rc.1",
+    "@angular/core": "^11.0.5",
     "@angular/forms": "^6.0.0-rc.1",
     "@angular/http": "^6.0.0-rc.1",
     "@angular/material": "^7.3.3",
